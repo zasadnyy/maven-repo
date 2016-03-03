@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>im.getsocial</groupId>
-  <artifactId>android-sdk-core</artifactId>
+  <artifactId>android-sdk-chat</artifactId>
   <versioning>
     <release>5.0.0</release>
     <versions>
